@@ -156,8 +156,8 @@ abstract class CourierAdapter
         // this construnction for debug
         try {
             echo "MySQL: " . $query, PHP_EOL;
-            mysqli_query($this->db_handle, $query);
-            mysqli_insert_id($this->db_handle);
+            mysqli_query($mysql_handle, $query);
+            mysqli_insert_id($mysql_handle);
         } catch (Error $e) {
             echo $query . " : " . $e, PHP_EOL;
             return false;
