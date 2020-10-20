@@ -18,7 +18,7 @@ Build a class structure to facilitate the implementation of the scenario set out
 
 ### batchmail.php interface
 
-![image](https://github.com/xvoland/PHPTask/raw/main/images/img01.png  | width=450x)
+![image](https://github.com/xvoland/PHPTask/raw/main/images/img01.png)
 
 ### batchmail.php result of add/create batch "Start New Batch"
 
