@@ -13,3 +13,38 @@ Build a class structure to facilitate the implementation of the scenario set out
 1. Start new batch
 2. Add consignment
 3. End current batch
+
+## Screenshots of processes
+
+### batchmail.php interface
+
+![](./images/img01.png =450x)
+
+### batchmail.php result of add/create batch "Start New Batch"
+
+![](./images/img02.png =450x)
+
+### batchmail.php result of added for button "List Of Batches"
+
+![](./images/img03.png =450x)
+
+### batchmail.php SQL record as a result 
+
+![](./images/img03_01.png =450x)
+
+### index.php main interface
+
+![](./images/img04.png =450x)
+
+### index.php completed form for Batch with Id:1
+
+![](./images/img05.png =450x)
+
+### index.php result of add record into database
+
+![](./images/img06.png =450x)
+
+### index.php added record into database
+
+![](./images/img06_01.png =450x)
+
