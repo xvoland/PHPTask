@@ -22,29 +22,29 @@ Build a class structure to facilitate the implementation of the scenario set out
 
 ### batchmail.php result of add/create batch "Start New Batch"
 
-![image](https://github.com/xvoland/PHPTask/raw/main/images/img02.png  | width=450x)
+![image](https://github.com/xvoland/PHPTask/raw/main/images/img02.png)
 
 ### batchmail.php result of added for button "List Of Batches"
 
-![image](https://github.com/xvoland/PHPTask/raw/main/images/img03.png  | width=450x)
+![image](https://github.com/xvoland/PHPTask/raw/main/images/img03.png)
 
 ### batchmail.php SQL record as a result 
 
-![image](https://github.com/xvoland/PHPTask/raw/main/images/img03_01.png  | width=450x)
+![image](https://github.com/xvoland/PHPTask/raw/main/images/img03_01.png)
 
 ### index.php main interface
 
-![image](https://github.com/xvoland/PHPTask/raw/main/images/img04.png  | width=450x)
+![image](https://github.com/xvoland/PHPTask/raw/main/images/img04.png)
 
 ### index.php completed form for Batch with Id:1
 
-![image](https://github.com/xvoland/PHPTask/raw/main/images/img05.png  | width=450x)
+![image](https://github.com/xvoland/PHPTask/raw/main/images/img05.png)
 
 ### index.php result of add record into database
 
-![image](https://github.com/xvoland/PHPTask/raw/main/images/img06.png  | width=450x)
+![image](https://github.com/xvoland/PHPTask/raw/main/images/img06.png)
 
 ### index.php added record into database
 
-![image](https://github.com/xvoland/PHPTask/raw/main/images/img06_01.png  | width=450x)
+![image](https://github.com/xvoland/PHPTask/raw/main/images/img06_01.png)
 
