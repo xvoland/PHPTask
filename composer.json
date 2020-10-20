@@ -1,0 +1,17 @@
+{
+    "name": "xvoland/PHPTask",
+    "description": "PHP class for multi-interface dispatcher",
+    "keywords": ["PHP", "delivery service", "batch", "tech task"],
+    "homepage": "https://github.com/xvoland/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vitalij Terescsuk",
+            "homepage": "https://github.com/xvoland",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    }
+}
