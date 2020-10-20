@@ -18,33 +18,33 @@ Build a class structure to facilitate the implementation of the scenario set out
 
 ### batchmail.php interface
 
-![](https://github.com/xvoland/PHPTask/blob/main/images/img01.png  | width=450x)
+![](https://github.com/xvoland/PHPTask/raw/main/images/img01.png  | width=450x)
 
 ### batchmail.php result of add/create batch "Start New Batch"
 
-![](https://github.com/xvoland/PHPTask/blob/main/images/img02.png  | width=450x)
+![](https://github.com/xvoland/PHPTask/raw/main/images/img02.png  | width=450x)
 
 ### batchmail.php result of added for button "List Of Batches"
 
-![](https://github.com/xvoland/PHPTask/blob/main/images/img03.png  | width=450x)
+![](https://github.com/xvoland/PHPTask/raw/main/images/img03.png  | width=450x)
 
 ### batchmail.php SQL record as a result 
 
-![](https://github.com/xvoland/PHPTask/blob/main/images/img03_01.png  | width=450x)
+![](https://github.com/xvoland/PHPTask/raw/main/images/img03_01.png  | width=450x)
 
 ### index.php main interface
 
-![](https://github.com/xvoland/PHPTask/blob/main/images/img04.png  | width=450x)
+![](https://github.com/xvoland/PHPTask/raw/main/images/img04.png  | width=450x)
 
 ### index.php completed form for Batch with Id:1
 
-![](https://github.com/xvoland/PHPTask/blob/main/images/img05.png  | width=450x)
+![](https://github.com/xvoland/PHPTask/raw/main/images/img05.png  | width=450x)
 
 ### index.php result of add record into database
 
-![](https://github.com/xvoland/PHPTask/blob/main/images/img06.png  | width=450x)
+![](https://github.com/xvoland/PHPTask/raw/main/images/img06.png  | width=450x)
 
 ### index.php added record into database
 
-![](https://github.com/xvoland/PHPTask/blob/main/images/img06_01.png  | width=450x)
+![](https://github.com/xvoland/PHPTask/raw/main/images/img06_01.png  | width=450x)
 
