@@ -31,7 +31,7 @@ if ($_GET["opr"] == "createbatch" && !empty($_POST["batch_name"])) {
      */
 
     $batch = new Batch($sqlHandle);
-    if (!empty($_POST["batch_name"]) && !empty($_POST["batch_name"]) ) {
+    if (!empty($_POST["batch_name"]) && !empty($_POST["batch_name"])) {
         $batch->setBatchStatusDone($_POST["batch_name"]);
     } else {
         /**
@@ -49,4 +49,3 @@ if ($_GET["opr"] == "createbatch" && !empty($_POST["batch_name"])) {
     $batch = new Batch($sqlHandle);
     $batch->printOpenBatch();
 }
-?>

@@ -1,5 +1,7 @@
 # PHPTask
-## Scenario
+
+## Scenario task of Venditan.com and Gear4music.com
+
 We need to build an order dispatch system, for sending out customer orders with one of a number of different couriers.
 At the start of a normal working day, a new batch will be started, and it will be closed at the end of the day, when no more parcels are going to be shipped. This is called the dispatch period.
 Each parcel sent out with a courier is called a consignment. Each consignment will be given a unique number - each courier will supply an algorithm for generating their own format of consignment numbers.
